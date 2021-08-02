@@ -1,5 +1,5 @@
 # Disney-Movie-Dataset-Creation-Using-Beautiful-Soup
-This is a web scraping project. Created a dataset of all the disney movies using beautifulsoup.
+This is a web scraping project. Created a dataset of all the disney movies using beautifulsoup and python.
 Web Scraping is used to extract data from websites.
 Dataset created using web scraping can be used in machine learning where data is trained and tested for specific purposes.
 
