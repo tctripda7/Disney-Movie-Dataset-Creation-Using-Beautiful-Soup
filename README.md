@@ -12,3 +12,5 @@ Steps performed:
 3. Save data into json file
 4. Clean data
 5. Convert the file into .csv file
+
+Further processing can be done on this data by implementing suitable machine learning algorithms which we will be doing in future.
